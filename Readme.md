@@ -1,5 +1,6 @@
 # To structure this project I have followed the Domain Driven, Data Oriented Architecture.
 
+```
 .
 ├── app
 │   ├── api
@@ -20,6 +21,7 @@
 ├── go.mod               
 ├── go.sum               
 └── .env 
+```
 
 
 ## How to run
